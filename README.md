@@ -1,3 +1,5 @@
-![Profile views](https://gpvc.arturio.dev/louishrg)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=louishrg&show_icons=true)
+<img src="https://media.giphy.com/media/Bl6VoPv34mX2E/giphy.gif"></img>
+<img src="https://media.giphy.com/media/Bl6VoPv34mX2E/giphy.gif"></img>
+<img src="https://media.giphy.com/media/Bl6VoPv34mX2E/giphy.gif"></img>
+<img src="https://media.giphy.com/media/Bl6VoPv34mX2E/giphy.gif"></img>
+<img src="https://media.giphy.com/media/Bl6VoPv34mX2E/giphy.gif"></img>
