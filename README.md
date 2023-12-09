@@ -1,3 +1,4 @@
+<div style="width:100%; text-align:center">
 <img src="https://media.giphy.com/media/Bl6VoPv34mX2E/giphy.gif" height="150px"></img>
 <img src="https://media.giphy.com/media/Bl6VoPv34mX2E/giphy.gif" height="150px"></img>
 <img src="https://media.giphy.com/media/Bl6VoPv34mX2E/giphy.gif" height="150px"></img>
@@ -9,3 +10,4 @@
 <img src="https://media.giphy.com/media/Bl6VoPv34mX2E/giphy.gif" height="150px"></img>
 <img src="https://media.giphy.com/media/Bl6VoPv34mX2E/giphy.gif" height="150px"></img>
 <img src="https://media.giphy.com/media/Bl6VoPv34mX2E/giphy.gif" height="150px"></img>
+</div>
